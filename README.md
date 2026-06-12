@@ -95,7 +95,7 @@ People Counting
 ├── Fire Detection
 └── Intrusion Detection
        ↓
-Telegram Alert System
+Telegram Alert System ```
 
 ---
 
@@ -160,8 +160,6 @@ smart-cctv-analytics/
 │   ├── crowd.gif
 │   ├── fire.gif
 │   └── intrusion.gif
-│
-└── outputs/
 ```
 
 ---
