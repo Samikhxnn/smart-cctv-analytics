@@ -136,9 +136,6 @@ pip install -r requirements.txt
 
 ### 6. Run Command ⭐
 
-```md
-### Run Project
-```
 ```bash
 python main.py
 ```
