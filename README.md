@@ -130,6 +130,7 @@ cd smart-cctv-analytics
 ```bash
 pip install -r requirements.txt
 ---
+```
 
 ---
 
@@ -137,10 +138,10 @@ pip install -r requirements.txt
 
 ```md
 ### Run Project
-
+```
 ```bash
 python main.py
-
+```
 ---
 
 ### 7. Improve First Line ⭐
@@ -149,7 +150,7 @@ Current:
 
 ```md
 A real-time Computer Vision based CCTV surveillance system
-
+```
 
 # Folder Structure 
 ```text
