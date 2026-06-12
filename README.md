@@ -100,7 +100,7 @@ People Counting
        │
        ▼
 Telegram Alert System
-
+```
 ---
 
 # Technologies Used
