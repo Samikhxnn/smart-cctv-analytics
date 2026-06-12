@@ -9,7 +9,7 @@ The system can:
 - Generate crowd density alerts
 - Detect fire incidents
 - Detect intrusion inside restricted zones
-- Send instant Telegram notifications
+- Send instant Telegram notifications(with intruder ids)
 
 ---
 
@@ -39,12 +39,13 @@ The system can:
 - Monitors predefined restricted areas
 - Detects unauthorized entry
 - Generates intrusion alerts
+- detect intruder_ids
 
 ## Telegram Notifications
 - Sends real-time alerts directly to Telegram
 - Fire Alert
 - Crowd Alert
-- Intrusion Alert
+- Intrusion Alert(with intruder ids)
 
 ---
 
