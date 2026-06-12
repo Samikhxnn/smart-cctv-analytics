@@ -113,13 +113,14 @@ Telegram Alert System
 
 ----------------------------------
 
+
+
 ## Installation
 
 ### Clone Repository
 ```bash
-git clone [https://github.com/Samikhxnn/smart-cctv-analytics.git](https://github.com/Samikhxnn/smart-cctv-analytics.git)
-cd smart-cctv-analytics```
-
+git clone https://github.com/Samikhxnn/smart-cctv-analytics.git
+cd smart-cctv-analytics
 ---
 
 # Folder Structure
