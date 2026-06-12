@@ -82,18 +82,19 @@ The system can:
 
 # Project Architecture
 
-Video Stream(main loop)
-↓
+```text
+Video Stream (main loop)
+       ↓
 Object Detection
-↓
+       ↓
 Person Tracking
-↓
+       ↓
 People Counting
-↓
+       ↓
 ├── Crowd Monitoring
 ├── Fire Detection
 └── Intrusion Detection
-↓
+       ↓
 Telegram Alert System
 
 ---
