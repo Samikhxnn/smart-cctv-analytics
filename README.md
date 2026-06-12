@@ -122,10 +122,34 @@ Telegram Alert System
 
 ### Clone Repository
 ```bash
-git clone [https://github.com/Samikhxnn/smart-cctv-analytics.git](https://github.com/Samikhxnn/smart-cctv-analytics.git)
+git clone https://github.com/Samikhxnn/smart-cctv-analytics.git
 cd smart-cctv-analytics
 ```
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
 ---
+
+---
+
+### 6. Add Run Command ⭐
+
+```md
+### Run Project
+
+```bash
+python main.py
+
+---
+
+### 7. Improve First Line ⭐
+
+Current:
+
+```md
+A real-time Computer Vision based CCTV surveillance system
+
 
 # Folder Structure 
 ```text
@@ -137,7 +161,7 @@ smart-cctv-analytics/
 ├── README.md
 │
 ├── modules/
-│   ├── fire_and_detection.py
+│   ├── fire_and_smoke_detection.py
 │   ├── crowd_monitoring.py
 │   ├── intrusion_detection.py
 │   ├── tracking.py
@@ -152,9 +176,9 @@ smart-cctv-analytics/
 │   └── intrusion_detection.png
 │
 ├── demo/
-│   ├── crowd.gif
-│   ├── fire.gif
-│   └── intrusion.gif 
+│   ├── crowd_gif.gif
+│   ├── fire_gif.gif
+│   └── intrusion_gif.gif 
 ```
 
 ---
