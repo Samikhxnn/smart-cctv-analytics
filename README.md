@@ -134,7 +134,7 @@ pip install -r requirements.txt
 
 ---
 
-### 6. Add Run Command ⭐
+### 6. Run Command ⭐
 
 ```md
 ### Run Project
