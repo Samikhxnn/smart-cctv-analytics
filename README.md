@@ -121,12 +121,13 @@ Telegram Alert System
 ```bash
 git clone https://github.com/Samikhxnn/smart-cctv-analytics.git
 cd smart-cctv-analytics
+```
 ---
 
 
 # Folder Structure
 
-```
+text```
 smart-cctv-analytics/
 │
 ├── main.py
